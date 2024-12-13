@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "heap_manager.h": "c",
+        "pthread.h": "c"
+    }
+}
